@@ -1,0 +1,12 @@
+Follow the following steps to launch the application.
+
+1) Open the command line Interpreter (cmd)
+2) Go to the project (application) directory
+3) Run the following commands
+
+	a) cd env/Scripts
+	b) activate
+	c) cd ../..
+	d) python main.py
+
+The application should start working.
