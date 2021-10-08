@@ -36,7 +36,9 @@ The Software is crossplatform, can run on the following.
 
 ## Contributions: 
 >	Khuzaima Arham
+
 >	Kashif Umar
+
 >	Ahmad Ali
 
 
