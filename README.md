@@ -21,6 +21,8 @@ To run the application, follow the following steps:
 2) Go to the project (application) directory
 3) Run the following commands
 ```
+//You are going to first activate the libraries for python, unfortunately that directory was too big in size that i couldn't attach it via git, but you could install the libraries through any python web site.
+
 	a) cd env/Scripts
 	b) activate
 	c) cd ../..
